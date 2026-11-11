@@ -1,0 +1,24 @@
+{
+  "device": "duchamp",
+  "builds": {
+    "3.0.302.0.WNLIDXM.C11": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-11-11T16:47:50Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a7ee40a62c24cb972ce534943a513aa314c6afb0da5274b3be68310e64b2131b",
+        "services_patched.jar": "sha256:b8e37316310f88b0ff4a848b6136f767810feea6470fb4aa043d20add48b4f44",
+        "miui-services_patched.jar": "sha256:d0c5495791490c1dce9cbc2276dc953d2215da6d65c316208f3b628ddc353c45",
+        "module_zip": "sha256:a45fe5e3e37f05a22fdaef4fd59fb8eace835046c1d42e31763fe2d6090a4f6b"
+      },
+      "workflow_run_id": "43060868283",
+      "workflow_url": "https://github.com/rifkiizzulhaq/FrameworkPatcher/actions/runs/43060868283",
+      "release_url": "https://github.com/rifkiizzulhaq/FrameworkPatcher/releases/tag/build-tmp-43060868283"
+    }
+  },
+  "last_updated": "2026-11-11T16:48:32Z"
+}

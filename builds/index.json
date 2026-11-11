@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "devices": {
+    "duchamp": {
+      "3.0.302.0.WNLIDXM.C11": {
+        "android_version": "16",
+        "build_time": "2026-11-11T16:47:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/rifkiizzulhaq/FrameworkPatcher/releases/tag/build-tmp-43060868283",
+        "workflow_url": "https://github.com/rifkiizzulhaq/FrameworkPatcher/actions/runs/43060868283",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
+    }
+  },
+  "last_updated": "2026-11-11T16:48:32Z",
+  "engine_version": "3.0.0"
+}
